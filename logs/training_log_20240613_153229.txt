@@ -1,0 +1,16 @@
+Timestamp: 2024-06-13 15:35:54
+Hyperparameters:
+VAL_SPLIT: 0.3
+TEST_SPLIT: 0.2
+BUFFER_SIZE: 10000
+BATCH_SIZE: 64
+VOCAB_SIZE: 4000
+EPOCHS: 15
+LSTM_UNIT: 64
+OPTIMIZER: RMSProp
+Results:
+loss: 1.1544854640960693
+accuracy: 0.7844007611274719
+
+==================================================
+
